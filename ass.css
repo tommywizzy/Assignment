@@ -1,0 +1,199 @@
+*{
+    font-family: poppins;
+}
+header{
+    background-color: red;
+    height: 80px;
+    position: relative;
+}
+.logo-span{
+    background-color: white;
+    border-radius: 80%;
+    padding: 15px 15px;
+    position: absolute;
+    top: 8px;
+    left: 112px;
+    width: 35px;
+    height: 37px;
+    }
+    .logo{
+        color: red;
+        font-size: 50px;
+        font-weight: 900;
+        text-decoration: none;
+        text-align: left;
+        font: normal normal 600 50px/40px poppins;
+        letter-spacing: 0px;
+    }
+    .login-signup{
+        position: absolute;
+        right: 50px;
+        top: 25px;
+        word-spacing: 20px;
+    }
+    .login{
+        color: white;
+        text-decoration: none;
+
+    }
+    .create-account{
+        color: white;
+        text-decoration: none;
+        border: 1px solid;
+        word-spacing: 0px;
+        border-radius: 5px;
+    }
+    .body{
+        position: relative;
+        padding: 30px 60px;
+        left: 70px;
+    }
+    .title-text{
+        color: #192f60;
+        font-weight: 600;
+        text-align: left;
+        font: normal normal bold 36px/55px poppins;
+        letter-spacing: 0px;
+
+        margin-bottom: 20px;
+      }
+        
+     .filter-article{
+        
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+        
+            box-shadow: 0px 3px 6px #00000029;
+        
+            top: 195px;
+        
+            left: 200px;
+        
+            width: 260px;
+        
+            height: 650px;
+         }
+         .result1-article{
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000029;
+        position: absolute;
+        top: 100px;
+        left: 418px;
+        width: 694px;
+        height: 250px;
+     }
+        
+     .filter{
+        
+        text-align: left;
+        
+        font: normal normal 600 10px/20px Poppins;
+        
+        letter-spacing: 0px;
+        
+        color: #192F60;
+        
+        }
+        
+        
+        
+        
+        
+        .result2-article{
+        
+            position: absolute;
+        
+            top: 400px;
+        
+            left: 418px;
+        
+            width: 694px;
+        
+            height: 250px;
+        
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+        
+            box-shadow: 0px 3px 6px #00000029;
+        }
+     .OYIGIE{
+        
+            position: absolute;
+        
+            top: 80px;
+        
+            left: 100px;
+        
+            text-align: left;
+        
+        font: normal normal normal 24px/21px Poppins;
+        
+        letter-spacing: 0px;
+        
+        color: #192F60;
+     }
+        
+        .Cuisine{
+        
+            text-align: left;
+        
+        font: normal normal normal 14px/21px Poppins;
+        
+        letter-spacing: 0px;
+        
+        color: #8C96AB;
+        
+        }
+        
+        .img{
+        
+            position: absolute;
+        
+            top: 20px;
+        
+            left: 40px;
+        
+            border-radius: 15px;
+        
+            width: 100px;
+        
+            height: 100px;
+         background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000029;
+        
+            }
+        .result1{
+        
+                position: absolute;
+        
+               
+        
+                top: 20px;
+        
+        left: 200px;
+        
+        text-align: left;
+        
+        font: normal normal 100 17px/10px Poppins;
+        
+        letter-spacing: 0px;
+        
+        color: #192F60;
+        
+            }
+        
+            .cost{
+        
+                position: absolute;
+        
+                top: 170px;
+        
+                left: 50px;
+        
+                text-align: left;
+        
+                font: normal normal normal 12px/10px Poppins;
+        
+                letter-spacing: 0px;
+        
+                color: #636F88;
+        
+            }
